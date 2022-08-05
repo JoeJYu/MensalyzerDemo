@@ -15,7 +15,7 @@ var conn = hana.createConnection();
 //serverNode: SQL Endpoint of SAP HANA Database Instance
 //uid and pwd of SAP HANA Database Instance (credentials)
 var conn_params = {
-    serverNode: 'aa3ff0d9-4dbd-41b8-8568-fec280ef54d9.hana.trial-us10.hanacloud.ondemand.com:443',
+    serverNode: '5d9e203b-244c-4bba-bc7b-ea82b07dc729.hana.trial-us10.hanacloud.ondemand.com:443',
     encrypt: 'true',
     sslValidateCertificate: 'false',
     uid: 'DBADMIN',
